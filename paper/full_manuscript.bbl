@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+
+\bibitem{Axelrod1984}
+Robert Axelrod.
+\newblock {\em The Evolution of Cooperation}.
+\newblock Basic Books, 1984.
+
+\bibitem{Axelrod1997}
+Robert Axelrod.
+\newblock {\em The Complexity of Cooperation}.
+\newblock Princeton University Press, 1997.
+
+\bibitem{Benjamin2001}
+Simon~C. Benjamin and Patrick~M. Hayden.
+\newblock Multiplayer quantum games.
+\newblock {\em Physical Review A}, 64(3):030301, 2001.
+
+\bibitem{Du2002}
+Jiangfeng Du, Xiaodong Xu, Hui Li, Xianyi Zhou, and Rongdian Han.
+\newblock Experimental realization of quantum games on a quantum computer.
+\newblock {\em Physical Review Letters}, 88(13):137902, 2002.
+
+\bibitem{Eisert1999}
+Jens Eisert, Martin Wilkens, and Maciej Lewenstein.
+\newblock Quantum games and quantum strategies.
+\newblock {\em Physical Review Letters}, 83(15):3077--3080, 1999.
+
+\bibitem{Flitney2002}
+Adrian~P. Flitney and Derek Abbott.
+\newblock An introduction to quantum game theory.
+\newblock {\em Fluctuation and Noise Letters}, 2(4):R175--R187, 2002.
+
+\bibitem{Knight2016}
+Vincent~A. Knight, Owen Campbell, Marc Harper, Karol~M. Langner, James
+  Campbell, Thomas Campbell, Alex Carney, Martin~J. Chorley, Cameron
+  Davidson-Pilon, Katie Glass, Nikoleta Jones, Georgios Koutsovoulos, Alexander
+  Stewart, James Szabo, Rebecca Moreton, Paul Slavin, Simon Campbell, George
+  Anastassiou, Alexandros Christodoulides, Nikoleta~E. Glynatsi, et~al.
+\newblock An open framework for the study of the iterated prisoner's dilemma.
+\newblock {\em Journal of Open Research Software}, 4(1):e35, 2016.
+
+\bibitem{Meyer1999}
+David~A. Meyer.
+\newblock Quantum strategies.
+\newblock {\em Physical Review Letters}, 82(5):1052--1055, 1999.
+
+\bibitem{Nowak2006}
+Martin~A. Nowak.
+\newblock {\em Evolutionary Dynamics: Exploring the Equations of Life}.
+\newblock Harvard University Press, 2006.
+
+\end{thebibliography}
