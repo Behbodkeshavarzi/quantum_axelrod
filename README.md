@@ -26,11 +26,6 @@ PYTHONPATH=src pytest -q
 PYTHONPATH=src python scripts/reproduce_figures.py
 ```
 
-Generated outputs are written to:
-
-- `results/*.csv`
-- `paper/figures/*.pdf`
-- `paper/figures/*.png`
 
 ## Minimal example
 
@@ -59,10 +54,5 @@ src/qaxelrod/strategies.py    Reference strategies and optional Axelrod discover
 src/qaxelrod/simulation.py    Repeated matches, round-robin tournaments, fixation examples
 scripts/reproduce_figures.py  Recreates example results and figures
 tests/                        Unit tests
-paper/full_manuscript.tex     Revised full LaTeX manuscript
-paper/paper.md                JOSS-format software paper
 ```
 
-## Before submission
-
-Replace all anonymous metadata with author names, affiliations, ORCID IDs, repository URL, and software archive DOI. For JOSS, host the software and `paper.md` in a public Git repository with an OSI-approved license, issue tracker, tests, and documentation.
